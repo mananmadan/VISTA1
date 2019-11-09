@@ -162,18 +162,19 @@ def read_from_file(graph,name):
 
 
 
-query = "traffic signals"
+query = "schedule feasibility"
 read_from_file(graph,query)
-create_graph(query,3,graph)
+create_graph(query,2,graph)
 add_to_file(graph,query)
-show_edges(graph)
+#show_edges(graph)
 print("\n")
 
-query = "Machine Learning"
+query = "flow diagram"
 read_from_file(graph2,query)
-create_graph(query,3,graph2)
+create_graph(query,2,graph2)
 add_to_file(graph2,query)
-show_edges(graph2)
-
+#show_edges(graph2)
+print("DONE\n")
+print("DONE\n")
 
 

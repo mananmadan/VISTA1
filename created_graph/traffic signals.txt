@@ -1,19 +1,373 @@
+Philosophy of science by discipline
+Philosophy of science
+History of science
+-1
+Idealism
+Idealism
+Monism
+Ontology
+Metaphysical theories
+Western philosophy
+Indian philosophy
+-1
+Philosophy of logic
+Philosophy of logic
+Concepts in epistemology
+Concepts in logic
+Epistemology
+Logic
+Philosophical logic
+Philosophy of education
+Philosophy of mathematics
+-1
+Society-related lists
+Lists of lists
+-1
+History of science and technology in China
+Chinese inventions
+History of science and technology in China
+-1
+Chinese pottery
+Arts in China
+History of ceramics
+Chinese art
+Chinese porcelain
+Chinese pottery
+-1
+Traffic law
+Road safety
+Road transport
+Road traffic management
+Traffic law
+-1
+Technological change
+Technological change
+Innovation
+Engineering studies
+-1
+Philosophy
+Philosophy
+Main topic articles
+-1
+Meaning (philosophy of language)
+Meaning (philosophy of language)
+Philosophy of language
+Semantics
+Philosophical logic
+-1
+Emergence
+Emergence
+Chaos theory
+Complex systems theory
+Concepts in epistemology
+Concepts in metaphysics
+Consciousness–matter dualism
+Metaphysics of mind
+Metaphysics of science
+Pattern formation
+-1
+Early Modern Britain
+Early Modern Britain
+16th century in Great Britain
+-1
+Semantics
+Semantics
+Concepts in logic
+Grammar
+Meaning (philosophy of language)
+Social philosophy
+-1
+Street furniture
+Street furniture
+Urban planning
+-1
+Modern history of the United Kingdom
+History of the United Kingdom
+-1
+Ancient Roman technology
+Technology-related lists
+Ancient Roman technology
+-1
+Philosophical concepts
+Philosophical concepts
+-1
+Cognition
+Cognition
+Cognitive science
+Mind
+Cognitive psychology
+-1
+Mental content
+Mind
+Cognitive science
+Philosophy of mind
+Concepts in metaphysics
+Emergence
+Main topic articles
+-1
+19th century-related lists
+19th century in London
+19th century-related lists
+-1
+Streetworks
+Iron and steel mills
+Steelmaking
+Manufacturing buildings and structures
+Firing techniques
+-1
+Traffic signals
+Traffic signals
+1868 introductions
+Pedestrian crossing components
+Street furniture
+Traffic law
+History of road transport
+-1
+Lists of satellites
+Lists of moons
+Moons
+-1
+Revolutions by type
+History of technology
+Revolutions by type
+Technological change
+Theories of history
+Science and technology studies
+-1
+Theoretical computer science
+Theoretical computer science
+Formal sciences
+-1
+Indian Space Research Organisation
+Indian Space Research Organisation
+Government agencies established in 1969
+Rocket engine manufacturers of India
+Government agencies of India
+Space programme of India
+1969 establishments in India
+Space agencies
+-1
+Main topic articles
+Law
+Wikipedia indexes
+-1
+Art history by medium
+Ceramic art
+History of ceramics
+Art history by medium
+Pottery
+-1
+Philosophy of education
+Philosophy of education
+-1
+Steelmaking
+Steelmaking
+Ancient Roman technology
+Chinese inventions
+English inventions
+Indian inventions
+Industrial Revolution in England
+-1
+Road transport
+Road transport
+-1
+History of the English language
+History of the English language
+English phonology
+Language histories
+-1
+Industrial processes
+Industry
+Industrial processes
+Technology-related lists
+Industry-related lists
+-1
+18th century
+2nd millennium
+18th century
+Centuries
+Early Modern period
+Modern history
+-1
+Theories of history
+Conspiracy theories
+Society-related lists
+-1
+Metaphysics
+Metaphysics
+-1
+Space programme of India
+Indian Space Research Organisation
+Government agencies established in 1969
+Rocket engine manufacturers of India
+Government agencies of India
+Space programme of India
+1969 establishments in India
+Space agencies
+-1
+India science and technology-related lists
+Lists of satellites
+Space programme of India
+India science and technology-related lists
+Foreign relations of India
+Indian Space Research Organisation
+-1
+Concepts in metaphilosophy
+Metaphilosophy
+-1
 Transportation engineering
 Transportation engineering
 Engineering disciplines
 Civil engineering
 -1
-Technology-related lists
+History of the United Kingdom
+History of the United Kingdom
+-1
+Residential heating appliances
+Residential heating appliances
+Gas technologies
+-1
+Metalogic
+Metalogic
+Mathematical logic
+Metaphilosophy
+-1
+Lists of lists
 Lists of lists
 -1
-Road traffic management
-Road traffic management
-Traffic signs
-Road safety
-Streetworks
+Fireplaces
+Fireplaces
+Residential heating appliances
 -1
-Modern history of the United Kingdom
-History of the United Kingdom
+Philosophy of mathematics
+Philosophy of mathematics
+-1
+Chinese inventions
+China-related lists
+Chinese inventions
+History of science and technology in China
+Lists of inventions or discoveries
+-1
+Syntax (logic)
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+-1
+Ceramic art
+Ceramic art
+History of ceramics
+Art history by medium
+Pottery
+-1
+History of industries
+History of industries
+Petroleum industry
+History of the petroleum industry
+-1
+Conspiracy theories
+Conspiracy theories
+Society-related lists
+-1
+Language histories
+Language histories
+Lists of languages
+-1
+Architecture
+Architecture
+Architectural design
+-1
+Arts in China
+Arts in China
+-1
+Consciousness
+Cognition
+Cognitive neuroscience
+Cognitive psychology
+Consciousness
+Mental processes
+Neuropsychological assessment
+Neuropsychology
+Phenomenology
+Emergence
+-1
+Communication
+Communication
+Plant cognition
+Scoutcraft
+-1
+Philosophical logic
+Set indices
+Philosophical logic
+Logic stubs
+-1
+Scoutcraft
+Scoutcraft
+Scouting
+-1
+China-related lists
+China-related lists
+-1
+Symbols
+Symbols
+Syntactic entities
+Concepts
+Notation
+-1
+Reasoning
+Reasoning
+Age of Enlightenment
+Analytic philosophy
+Belief
+Concepts in ancient Greek metaphysics
+Concepts in ancient Greek philosophy of mind
+Concepts in epistemology
+Concepts in ethics
+Concepts in logic
+Concepts in metaphilosophy
+Concepts in metaphysics
+Continental philosophy
+Critical thinking
+Deductive reasoning
+Epistemology
+History of education
+History of ideas
+History of logic
+History of philosophy
+Idealism
+Inductive reasoning
+Learning
+Logic
+Metaphilosophy
+Metaphysics
+Metaphysics of mind
+Mind
+Ontology
+Philosophical logic
+Philosophy
+Philosophy of education
+Philosophy of logic
+Philosophy of mind
+Problem solving skills
+Rationalism
+Secularism
+Thought
+Truth
+Western culture
+Western philosophy
+-1
+English inventions
+English inventions
+English history-related lists
+Lists of inventions or discoveries
+-1
+Branches of psychology
+Psychology
+Behavioural sciences
+-1
+Epistemology
+Epistemology
 -1
 Industrial Revolution in England
 Industrial Revolution
@@ -27,8 +381,232 @@ Modern history of the United Kingdom
 Revolutions by type
 Theories of history
 -1
+Metaphysics of mind
+Metaphysics
+-1
+Concepts
+Abstraction
+Assumption
+Cognitive science
+Concepts
+Mental content
+Ontology
+Metaphysics
+Philosophical concepts
+Philosophy
+Philosophy of language
+Philosophy of mind
+Semantics
+Main topic articles
+-1
+Modeling languages
+Scientific modeling
+Specification languages
+Modeling languages
+-1
+Urban planning
+Urban planning
+-1
+Early Modern period
+Early Modern period
+Historical eras
+History of Europe by period
+15th century
+16th century
+17th century
+18th century
+Modern history
+15th century in Europe
+16th century in Europe
+17th century in Europe
+18th century in Europe
+World history
+-1
+Foreign relations of India
+Foreign relations of India
+India and the Commonwealth of Nations
+-1
+Plant cognition
+Plant cognition
+Enactive cognition
+Plant communication
+-1
+Chinese art
+Art by country
+Chinese art
+-1
+Manufacturing buildings and structures
+Manufacturing plants
+Industrial buildings
+Manufacturing buildings and structures
+Industrial Revolution
+-1
+Manufacturing plants
+Manufacturing plants
+Industrial buildings
+Manufacturing buildings and structures
+Industrial Revolution
+-1
+Metaphilosophy
+Metaphilosophy
+-1
+Concepts in epistemology
+Epistemology
+-1
+Concepts in aesthetics
+Aesthetics
+Words coined in the 1730s
+-1
+Industrial furnaces
+Fireplaces
+Residential heating appliances
+Industrial furnaces
+Industrial processes
+Inventions of the Indus Valley Civilisation
+Firing techniques
+-1
 Science and technology in India
 Science and technology in India
+-1
+Ontology
+Ontology
+Metaphysics
+Meaning (philosophy of language)
+-1
+19th century in London
+19th century in London
+19th century-related lists
+-1
+Wikipedia indexes
+2001 establishments in the United States
+Wikipedia
+Advertising-free websites
+Internet properties established in 2001
+Social information processing
+Open-source intelligence
+-1
+Industrial history
+Industrial Revolution
+Industrial history
+History of technology
+18th century in technology
+19th century in technology
+Early Modern Britain
+Modern Europe
+Modern history of the United Kingdom
+Revolutions by type
+Theories of history
+-1
+Science and technology studies
+Science studies
+Science and technology studies
+Social epistemology
+Sociology of science
+Science in society
+Technology in society
+-1
+Specification languages
+Computer languages
+Scientific modeling
+Software engineering
+Specification languages
+-1
+Road safety
+Road transport
+Road safety
+-1
+18th century in technology
+2nd millennium
+18th century
+Centuries
+Early Modern period
+Modern history
+-1
+Pedestrian crossing components
+Pedestrian crossing components
+Road transport
+Traffic law
+Transportation engineering
+-1
+Traffic signs
+Street furniture
+Traffic signs
+Road safety
+Symbols
+-1
+Syntactic entities
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+-1
+Art by country
+Baroque art
+Medieval art
+Renaissance art
+Dutch painters
+Flemish painters
+Art by country
+Netherlandish art
+-1
+History of science by discipline
+Political science
+History of social sciences
+History of science by discipline
+-1
+Modern Europe
+History of Europe
+-1
+16th century in Great Britain
+Early Modern Britain
+16th century in Great Britain
+-1
+Indian inventions
+Science and technology in India
+Indian inventions
+Lists of inventions or discoveries
+India science and technology-related lists
+-1
+Cognitive science
+Cognitive science
+Interdisciplinary subfields
+Branches of psychology
+-1
+History of technology
+History of technology
+History of science by discipline
+History of industries
+Engineering studies
+-1
+English phonology
+English phonology
+English language
+Language phonologies
+Phonology
+-1
+Firing techniques
+Chinese inventions
+Chinese pottery
+Kilns
+Firing techniques
+-1
+Engineering occupations
+Engineering occupations
+-1
+Engineering disciplines
+Engineering occupations
+Engineering-related lists
+Engineering disciplines
+-1
+Technology-related lists
+Lists of lists
+-1
+Road traffic management
+Road traffic management
+Traffic signs
+Road safety
+Streetworks
 -1
 Industrial Revolution
 Industrial Revolution
@@ -42,68 +620,52 @@ Modern history of the United Kingdom
 Revolutions by type
 Theories of history
 -1
-Philosophy of logic
-Philosophy of logic
-Concepts in epistemology
-Concepts in logic
-Epistemology
-Logic
-Philosophical logic
-Philosophy of education
-Philosophy of mathematics
+Creativity
+Aptitude
+Creativity
+Cognition
+Design
+Educational psychology
+Innovation economics
+Innovation
+Problem solving skills
+Product management
+Science and technology studies
 -1
-Modeling languages
+Chinese porcelain
+Arts in China
+History of ceramics
+Chinese art
+Chinese porcelain
+Chinese pottery
+-1
+Social philosophy
+Social philosophy
+Interdisciplinary subfields of sociology
+-1
+Grammar
+Grammar
+-1
 Scientific modeling
-Specification languages
-Modeling languages
+Scientific modeling
+Conceptual modelling
+Epistemology of science
+Interpretation (philosophy)
 -1
-Chinese porcelain
-Arts in China
-History of ceramics
-Chinese art
-Chinese porcelain
-Chinese pottery
--1
-Urban planning
-Urban planning
--1
-History of science and technology in China
-Chinese inventions
-History of science and technology in China
--1
-Engineering disciplines
-Engineering occupations
-Engineering-related lists
-Engineering disciplines
--1
-Chinese pottery
-Arts in China
-History of ceramics
-Chinese art
-Chinese porcelain
-Chinese pottery
--1
-China-related lists
-China-related lists
+Engineering studies
+Interdisciplinary subfields of sociology
+Engineering
+Engineering studies
 -1
 Industrial buildings
 Industrial buildings
 Architecture
 -1
-Traffic law
-Road safety
-Road transport
-Road traffic management
-Traffic law
--1
-Chinese art
-Art by country
-Chinese art
--1
-Metalogic
-Metalogic
-Mathematical logic
-Metaphilosophy
+Kilns
+Industrial furnaces
+Pottery
+Kilns
+Firing techniques
 -1
 Abstraction
 Abstraction
@@ -124,112 +686,63 @@ History of the English language
 English phonology
 Language histories
 -1
+Centuries
+100 (number)
+Centuries
+Units of time
+-1
 Notation
 Notation
 Communication
 Modeling languages
 -1
-Chinese inventions
-China-related lists
-Chinese inventions
-History of science and technology in China
-Lists of inventions or discoveries
+Modern history
+World history
+Contemporary history
 -1
-Manufacturing buildings and structures
-Manufacturing plants
-Industrial buildings
-Manufacturing buildings and structures
-Industrial Revolution
--1
-Philosophy
-Philosophy
-Main topic articles
--1
-Manufacturing plants
-Manufacturing plants
-Industrial buildings
-Manufacturing buildings and structures
-Industrial Revolution
--1
-Architecture
-Architecture
-Architectural design
--1
-Industrial furnaces
-Fireplaces
-Residential heating appliances
-Industrial furnaces
-Industrial processes
 Inventions of the Indus Valley Civilisation
-Firing techniques
+Indus Valley Civilisation
+History of water supply and sanitation
+Water supply and sanitation in India
+Water supply and sanitation in Pakistan
+Indian inventions
+Inventions of the Indus Valley Civilisation
+History stubs
 -1
-Syntax (logic)
-Syntax (logic)
+Interdisciplinary subfields
+Interdisciplinary subfields of sociology
+Social theories
+-1
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
+Formal languages
+Theoretical computer science
+Combinatorics on words
 -1
-Ontology
-Ontology
-Metaphysics
-Meaning (philosophy of language)
+Law
+Law
+Main topic articles
 -1
 Philosophy of language
 Philosophy of language
 Philosophy of science by discipline
 -1
-Semantics
-Semantics
-Concepts in logic
-Grammar
-Meaning (philosophy of language)
-Social philosophy
+Lists of inventions or discoveries
+Science and technology in India
+Indian inventions
+Lists of inventions or discoveries
+India science and technology-related lists
 -1
-Street furniture
-Street furniture
-Urban planning
+Ceramics
+Ceramics
 -1
 Pottery
 Ceramics
 Ceramic art
 Pottery
 -1
-Kilns
-Industrial furnaces
-Pottery
-Kilns
-Firing techniques
--1
-Ancient Roman technology
-Technology-related lists
-Ancient Roman technology
--1
-Philosophical concepts
-Philosophical concepts
--1
 History of road transport
 History of road transport
 Pavements
--1
-Mental content
-Mind
-Cognitive science
-Philosophy of mind
-Concepts in metaphysics
-Emergence
-Main topic articles
--1
-Road safety
-Road transport
-Road safety
--1
-18th century in technology
-2nd millennium
-18th century
-Centuries
-Early Modern period
-Modern history
 -1
 19th century in technology
 19th century in London
@@ -255,160 +768,99 @@ Philosophical concepts
 Reasoning
 Thought
 -1
+Thought
+Thought
+Abstraction
+Assumption
+Cognition
+Cognitive science
+Concepts
+Concepts in ancient Greek metaphysics
+Concepts in ancient Greek philosophy of mind
+Concepts in epistemology
+Concepts in metaphilosophy
+Concepts in metaphysics
+Consciousness
+Creativity
+Emergence
+Empiricism
+Epistemology
+Free will
+History of education
+History of ideas
+History of philosophy
+History of psychology
+Idealism
+Mental content
+Mental processes
+Metaphysics
+Metaphysics of mind
+Mind
+Mind–body problem
+Neuropsychological assessment
+Observation
+Ontology
+Perception
+Philosophical concepts
+Philosophy of mind
+Rationalism
+Reasoning
+Self
+Sensory systems
+Sources of knowledge
+Subjective experience
+Unsolved problems in neuroscience
+-1
 Civil engineering
 Civil engineering
 Engineering disciplines
 -1
-Streetworks
-Iron and steel mills
-Steelmaking
-Manufacturing buildings and structures
-Firing techniques
--1
-Arts in China
-Arts in China
--1
-Pedestrian crossing components
-Pedestrian crossing components
-Road transport
-Traffic law
-Transportation engineering
--1
-Concepts
+Logic
+Logic
 Abstraction
-Assumption
-Cognitive science
-Concepts
-Mental content
-Ontology
-Metaphysics
-Philosophical concepts
-Philosophy
-Philosophy of language
-Philosophy of mind
-Semantics
-Main topic articles
+Formal sciences
 -1
-Traffic signals
-Traffic signals
-1868 introductions
-Pedestrian crossing components
-Street furniture
-Traffic law
-History of road transport
+Architectural design
+Architecture magazines
+Architectural design
+British science and technology magazines
+Magazines established in 1930
+British bi-monthly magazines
 -1
-Traffic signs
-Street furniture
-Traffic signs
-Road safety
-Symbols
+2nd millennium
+2nd millennium
+Millennia
 -1
-Syntactic entities
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
--1
-Communication
-Communication
-Plant cognition
-Scoutcraft
--1
-India science and technology-related lists
-Lists of satellites
-Space programme of India
-India science and technology-related lists
-Foreign relations of India
-Indian Space Research Organisation
--1
-Early Modern Britain
-Early Modern Britain
-16th century in Great Britain
--1
-Revolutions by type
-History of technology
-Revolutions by type
-Technological change
-Theories of history
-Science and technology studies
--1
-Metaphysics
+Concepts in metaphysics
 Metaphysics
 -1
-Modern Europe
+History of Europe
 History of Europe
 -1
-History of technology
-History of technology
-History of science by discipline
-History of industries
-Engineering studies
+Mind
+Mind
+Cognitive science
+Philosophy of mind
+Concepts in metaphysics
+Emergence
+Main topic articles
+-1
+Iron and steel mills
+Steel industry of the United States
+-1
+Engineering-related lists
+Engineering occupations
+Engineering-related lists
+Engineering disciplines
+-1
+Mathematical logic
+Mathematical logic
 -1
 History of ceramics
 Ceramic art
 History of ceramics
 Art history by medium
 Pottery
--1
-Firing techniques
-Chinese inventions
-Chinese pottery
-Kilns
-Firing techniques
--1
-Main topic articles
-Law
-Wikipedia indexes
--1
-Theories of history
-Conspiracy theories
-Society-related lists
--1
-Steelmaking
-Steelmaking
-Ancient Roman technology
-Chinese inventions
-English inventions
-Indian inventions
-Industrial Revolution in England
--1
-Engineering occupations
-Engineering occupations
--1
-Road transport
-Road transport
--1
-Iron and steel mills
-Steel industry of the United States
--1
-Indian inventions
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
--1
-Symbols
-Symbols
-Syntactic entities
-Concepts
-Notation
--1
-Cognitive science
-Cognitive science
-Interdisciplinary subfields
-Branches of psychology
--1
-Formal languages
-Formal languages
-Theoretical computer science
-Combinatorics on words
--1
-Lists of inventions or discoveries
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
 -1
 traffic signals
 Traffic signals
@@ -418,29 +870,10 @@ Street furniture
 Traffic law
 History of road transport
 -1
-Industrial history
-Industrial Revolution
-Industrial history
-History of technology
-18th century in technology
-19th century in technology
-Early Modern Britain
-Modern Europe
-Modern history of the United Kingdom
-Revolutions by type
-Theories of history
--1
 Steel industry of the United States
 Steel industry of the United States
 -1
-Engineering-related lists
-Engineering occupations
-Engineering-related lists
-Engineering disciplines
--1
-English inventions
-English inventions
-English history-related lists
-Lists of inventions or discoveries
+Combinatorics on words
+Combinatorics on words
 -1
 -2
